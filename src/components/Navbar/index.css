@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.navbar-container {
+  min-height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  align-items: center;
+  border-bottom: 1px solid #dcdcdc;
+}
+
+.navbar-container-dark {
+  min-height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  align-items: center;
+  background-color: #333333;
+}
+
+.list-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.listitem {
+  text-decoration: none;
+  font-family: 'Roboto';
+  color: #171f46;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.listitem-dark {
+  text-decoration: none;
+  font-family: 'Roboto';
+  color: white;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+button {
+  border: 0px;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.theme {
+  height: 50px;
+  width: 50px;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+}

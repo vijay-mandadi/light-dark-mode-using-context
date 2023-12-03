@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.not-found-image {
+  height: 300px;
+  width: 300px;
+}
+
+.not-found-heading {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-weight: 300;
+}
+
+.not-found-heading-dark {
+  font-family: 'Roboto';
+  color: white;
+  font-weight: 300;
+}
+
+.not-found-paragraph {
+  font-family: 'Roboto';
+  color: #334155;
+}
+
+.not-found-paragraph-dark {
+  font-family: 'Roboto';
+  color: white;
+}

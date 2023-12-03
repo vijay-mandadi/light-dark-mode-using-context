@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.home-container {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-container-dark {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.home-image {
+  height: 100px;
+  width: 100px;
+}
+
+.home-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+
+.home-heading-dark {
+  color: white;
+  font-family: 'Roboto';
+}
